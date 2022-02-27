@@ -1,0 +1,1 @@
+First, image will be uploaded to server, then image will be saved in database as buffer.
